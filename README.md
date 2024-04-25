@@ -12,7 +12,7 @@ The project is structured as follows:
 ```
 telecom_analysis/
 ├── data/
-│   └── raw_data.csv (This is where you will store the raw data from the SQL database)
+│   └── 
 ├── src/
 │   ├── __init__.py
 │   ├── data_processing.py
