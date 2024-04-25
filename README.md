@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# User_Analytics_in_Telecom_10AC_week1
-=======
-# User_Analytics_in_Telecom_10AC_week1
 
-```
-# Telecom Analysis Project
 
 This project aims to analyze telecom data and provide insights into user behavior, engagement, experience, and satisfaction. The analysis is performed using Python and various data analysis libraries.
 
@@ -12,10 +6,8 @@ This project aims to analyze telecom data and provide insights into user behavio
 
 The project is structured as follows:
 
-```
 telecom_analysis/
 ├── data/
-│   └── 
 ├── src/
 │   ├── __init__.py
 │   ├── data_processing.py
@@ -33,7 +25,6 @@ telecom_analysis/
 ├── README.md
 ├── setup.py
 └── .gitignore
-```
 
 ## Getting Started
 
@@ -98,9 +89,6 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push your changes to your forked repository (`git push origin feature/your-feature-name`)
 5. Create a new Pull Request
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 ```
 
 This README file provides instructions on how to set up the project, fetch and preprocess the data, run the EDA scripts, execute unit tests, and contribute to the project. You can customize it further based on your specific project requirements and add any additional sections or information as needed.
