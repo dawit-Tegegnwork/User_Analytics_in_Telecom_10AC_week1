@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Administrator\Desktop\User_Analytics_in_Telecom_10AC_week1.git\.git\User_Analytics_in_Telecom_10AC_week1-main\.venv
+set VIRTUAL_ENV=C:\Users\Administrator\Desktop\final\User_Analytics_in_Telecom_10AC_week1\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
